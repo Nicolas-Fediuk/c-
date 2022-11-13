@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\bin\Debug\net6.0\poo2.exe
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\bin\Debug\net6.0\poo2.deps.json
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\bin\Debug\net6.0\poo2.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\bin\Debug\net6.0\poo2.dll
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\bin\Debug\net6.0\poo2.pdb
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.dll
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\refint\poo2.dll
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.pdb
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\poo2.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Curso c#\11-POO2\poo2\obj\Debug\net6.0\ref\poo2.dll

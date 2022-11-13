@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\bin\Debug\net6.0\metodos1.exe
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\bin\Debug\net6.0\metodos1.deps.json
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\bin\Debug\net6.0\metodos1.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\bin\Debug\net6.0\metodos1.dll
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\bin\Debug\net6.0\metodos1.pdb
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.dll
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\refint\metodos1.dll
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.pdb
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\metodos1.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Curso c#\4-Metodos1\metodos1\obj\Debug\net6.0\ref\metodos1.dll

@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\bin\Debug\net6.0\sintaxisConstantes.exe
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\bin\Debug\net6.0\sintaxisConstantes.deps.json
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\bin\Debug\net6.0\sintaxisConstantes.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\bin\Debug\net6.0\sintaxisConstantes.dll
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\bin\Debug\net6.0\sintaxisConstantes.pdb
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.dll
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\refint\sintaxisConstantes.dll
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.pdb
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\sintaxisConstantes.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Curso c#\3-SintaxisConstantes\sintaxisConstantes\obj\Debug\net6.0\ref\sintaxisConstantes.dll

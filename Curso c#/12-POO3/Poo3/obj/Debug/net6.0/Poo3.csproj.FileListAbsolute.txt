@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\bin\Debug\net6.0\Poo3.exe
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\bin\Debug\net6.0\Poo3.deps.json
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\bin\Debug\net6.0\Poo3.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\bin\Debug\net6.0\Poo3.dll
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\bin\Debug\net6.0\Poo3.pdb
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.dll
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\refint\Poo3.dll
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.pdb
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\Poo3.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Curso c#\12-POO3\Poo3\obj\Debug\net6.0\ref\Poo3.dll

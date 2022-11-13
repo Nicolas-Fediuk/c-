@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\bin\Debug\net6.0\sintaxis1.exe
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\bin\Debug\net6.0\sintaxis1.deps.json
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\bin\Debug\net6.0\sintaxis1.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\bin\Debug\net6.0\sintaxis1.dll
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\bin\Debug\net6.0\sintaxis1.pdb
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.dll
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\refint\sintaxis1.dll
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.pdb
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\sintaxis1.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Curso c#\2-Sintaxis1\sintaxis1\obj\Debug\net6.0\ref\sintaxis1.dll

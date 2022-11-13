@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\bin\Debug\net6.0\excepciones3.exe
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\bin\Debug\net6.0\excepciones3.deps.json
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\bin\Debug\net6.0\excepciones3.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\bin\Debug\net6.0\excepciones3.dll
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\bin\Debug\net6.0\excepciones3.pdb
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.dll
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\refint\excepciones3.dll
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.pdb
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\excepciones3.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Curso c#\8-Excepciones3\excepciones3\obj\Debug\net6.0\ref\excepciones3.dll
