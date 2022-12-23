@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\bin\Debug\net6.0\ejemploI.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\bin\Debug\net6.0\ejemploI.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\bin\Debug\net6.0\ejemploI.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\bin\Debug\net6.0\ejemploI.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\bin\Debug\net6.0\ejemploI.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\refint\ejemploI.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ejemploI.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\18-EjemploInterfaces\ejemploI\obj\Debug\net6.0\ref\ejemploI.dll

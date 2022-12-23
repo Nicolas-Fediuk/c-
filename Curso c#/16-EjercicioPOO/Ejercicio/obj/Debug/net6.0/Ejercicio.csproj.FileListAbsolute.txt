@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\bin\Debug\net6.0\Ejercicio.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\bin\Debug\net6.0\Ejercicio.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\bin\Debug\net6.0\Ejercicio.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\bin\Debug\net6.0\Ejercicio.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\bin\Debug\net6.0\Ejercicio.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\refint\Ejercicio.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\Ejercicio.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\16-EjercicioPOO\Ejercicio\obj\Debug\net6.0\ref\Ejercicio.dll

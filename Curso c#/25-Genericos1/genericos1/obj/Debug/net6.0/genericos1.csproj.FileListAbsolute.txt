@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\bin\Debug\net6.0\genericos1.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\bin\Debug\net6.0\genericos1.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\bin\Debug\net6.0\genericos1.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\bin\Debug\net6.0\genericos1.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\bin\Debug\net6.0\genericos1.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\refint\genericos1.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\genericos1.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\25-Genericos1\genericos1\obj\Debug\net6.0\ref\genericos1.dll

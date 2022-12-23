@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\bin\Debug\net6.0\struct.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\bin\Debug\net6.0\struct.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\bin\Debug\net6.0\struct.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\bin\Debug\net6.0\struct.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\bin\Debug\net6.0\struct.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\refint\struct.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\struct.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\22-Struct\struct\obj\Debug\net6.0\ref\struct.dll

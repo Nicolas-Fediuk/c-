@@ -28,12 +28,32 @@
             Empleados[] arrayEmpleados = new Empleados[2];
 
             arrayEmpleados[0] = new Empleados("nicoas", 12);
+            arrayEmpleados[1] = new Empleados("andrea", 49);
+
+
+            //iterar un arrary de objetos con for
+            for(int i=0; i < arrayEmpleados.Length; i++)
+            {
+                Console.WriteLine(arrayEmpleados[i].getNombres());
+            }
+
+            //iterar u array de objetos con foreach 
+            foreach (Empleados emp in arrayEmpleados)
+            {
+                Console.WriteLine(emp.getNombres());
+            }
+        
 
             //array de tipo o clases anonimas
             var personas = new[] {
                 new {Nombre = "nicolas", edad = 23},
                 new {Nombre = "andrea", edad = 45}
             };
+
+            foreach(var person in personas)
+            {
+                Console.WriteLine(person.edad);
+            }
         }
     }
 
@@ -45,6 +65,11 @@
         {
             this.nombre = nombre;
             this.edad = edad;
+        }
+
+        public string getNombres()
+        {
+            return "nombre del empleado: " + nombre;
         }
     }
 } 

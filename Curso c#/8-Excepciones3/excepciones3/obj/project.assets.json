@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nfediuk\\Desktop\\Curso c#\\8-Excepciones3\\excepciones3\\excepciones3.csproj",
+      "projectUniqueName": "C:\\Users\\nfediuk\\Desktop\\c-\\Curso c#\\8-Excepciones3\\excepciones3\\excepciones3.csproj",
       "projectName": "excepciones3",
-      "projectPath": "C:\\Users\\nfediuk\\Desktop\\Curso c#\\8-Excepciones3\\excepciones3\\excepciones3.csproj",
+      "projectPath": "C:\\Users\\nfediuk\\Desktop\\c-\\Curso c#\\8-Excepciones3\\excepciones3\\excepciones3.csproj",
       "packagesPath": "C:\\Users\\nfediuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nfediuk\\Desktop\\Curso c#\\8-Excepciones3\\excepciones3\\obj\\",
+      "outputPath": "C:\\Users\\nfediuk\\Desktop\\c-\\Curso c#\\8-Excepciones3\\excepciones3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

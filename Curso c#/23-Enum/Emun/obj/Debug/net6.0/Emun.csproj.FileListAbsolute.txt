@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\bin\Debug\net6.0\Emun.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\bin\Debug\net6.0\Emun.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\bin\Debug\net6.0\Emun.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\bin\Debug\net6.0\Emun.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\bin\Debug\net6.0\Emun.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\refint\Emun.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\Emun.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\23-Enum\Emun\obj\Debug\net6.0\ref\Emun.dll

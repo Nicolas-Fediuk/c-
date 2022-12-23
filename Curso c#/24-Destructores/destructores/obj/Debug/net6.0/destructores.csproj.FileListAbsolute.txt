@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\bin\Debug\net6.0\destructores.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\bin\Debug\net6.0\destructores.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\bin\Debug\net6.0\destructores.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\bin\Debug\net6.0\destructores.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\bin\Debug\net6.0\destructores.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\refint\destructores.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\destructores.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\24-Destructores\destructores\obj\Debug\net6.0\ref\destructores.dll

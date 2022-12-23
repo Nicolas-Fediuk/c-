@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\bin\Debug\net6.0\ClasesAbstractas.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\refint\ClasesAbstractas.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ClasesAbstractas.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\19-ClasesAbstractas1\ClasesAbstractas\obj\Debug\net6.0\ref\ClasesAbstractas.dll
