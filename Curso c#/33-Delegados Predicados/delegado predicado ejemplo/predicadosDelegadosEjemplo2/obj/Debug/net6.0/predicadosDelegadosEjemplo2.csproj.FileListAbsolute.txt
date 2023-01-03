@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\bin\Debug\net6.0\predicadosDelegadosEjemplo2.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\bin\Debug\net6.0\predicadosDelegadosEjemplo2.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\bin\Debug\net6.0\predicadosDelegadosEjemplo2.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\bin\Debug\net6.0\predicadosDelegadosEjemplo2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\bin\Debug\net6.0\predicadosDelegadosEjemplo2.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\refint\predicadosDelegadosEjemplo2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\predicadosDelegadosEjemplo2.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\33-Delegados Predicados\delegado predicado ejemplo\predicadosDelegadosEjemplo2\obj\Debug\net6.0\ref\predicadosDelegadosEjemplo2.dll

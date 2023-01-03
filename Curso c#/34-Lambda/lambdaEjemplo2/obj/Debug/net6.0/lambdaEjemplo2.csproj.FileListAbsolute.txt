@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\bin\Debug\net6.0\lambdaEjemplo2.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\bin\Debug\net6.0\lambdaEjemplo2.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\bin\Debug\net6.0\lambdaEjemplo2.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\bin\Debug\net6.0\lambdaEjemplo2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\bin\Debug\net6.0\lambdaEjemplo2.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\refint\lambdaEjemplo2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\lambdaEjemplo2.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambdaEjemplo2\obj\Debug\net6.0\ref\lambdaEjemplo2.dll

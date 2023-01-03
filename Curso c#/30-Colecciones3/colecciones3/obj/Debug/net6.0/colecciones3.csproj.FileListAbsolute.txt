@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\Bar\colecciones3\bin\Debug\net6.0\colecciones3.exe
+C:\Users\nfediuk\Desktop\Bar\colecciones3\bin\Debug\net6.0\colecciones3.deps.json
+C:\Users\nfediuk\Desktop\Bar\colecciones3\bin\Debug\net6.0\colecciones3.runtimeconfig.json
+C:\Users\nfediuk\Desktop\Bar\colecciones3\bin\Debug\net6.0\colecciones3.dll
+C:\Users\nfediuk\Desktop\Bar\colecciones3\bin\Debug\net6.0\colecciones3.pdb
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.dll
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\refint\colecciones3.dll
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.pdb
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\colecciones3.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\Bar\colecciones3\obj\Debug\net6.0\ref\colecciones3.dll

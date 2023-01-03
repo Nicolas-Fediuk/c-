@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\bin\Debug\net6.0\delegados.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\bin\Debug\net6.0\delegados.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\bin\Debug\net6.0\delegados.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\bin\Debug\net6.0\delegados.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\bin\Debug\net6.0\delegados.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\refint\delegados.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\delegados.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\31-Colecciones4\delegados\obj\Debug\net6.0\ref\delegados.dll

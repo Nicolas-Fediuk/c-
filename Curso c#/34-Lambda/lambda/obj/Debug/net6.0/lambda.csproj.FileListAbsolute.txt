@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\bin\Debug\net6.0\lambda.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\bin\Debug\net6.0\lambda.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\bin\Debug\net6.0\lambda.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\bin\Debug\net6.0\lambda.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\bin\Debug\net6.0\lambda.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\refint\lambda.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\lambda.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\34-Lambda\lambda\obj\Debug\net6.0\ref\lambda.dll
