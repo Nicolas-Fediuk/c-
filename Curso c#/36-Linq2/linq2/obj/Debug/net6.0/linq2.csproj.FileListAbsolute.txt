@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\bin\Debug\net6.0\linq2.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\bin\Debug\net6.0\linq2.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\bin\Debug\net6.0\linq2.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\bin\Debug\net6.0\linq2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\bin\Debug\net6.0\linq2.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\refint\linq2.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\linq2.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\36-Linq2\linq2\obj\Debug\net6.0\ref\linq2.dll
