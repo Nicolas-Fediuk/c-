@@ -1,0 +1,16 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\bin\Debug\linq4.exe.config
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\bin\Debug\linq4.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\bin\Debug\linq4.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\MainWindow.g.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\App.g.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4_MarkupCompile.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4_MarkupCompile.lref
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\MainWindow.baml
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.g.resources
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.Properties.Resources.resources
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.csproj.GenerateResource.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\38-Linq4\linq4\linq4\obj\Debug\linq4.pdb

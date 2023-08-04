@@ -1,0 +1,15 @@
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\bin\Debug\net7.0\linq3.exe
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\bin\Debug\net7.0\linq3.deps.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\bin\Debug\net7.0\linq3.runtimeconfig.json
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\bin\Debug\net7.0\linq3.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\bin\Debug\net7.0\linq3.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.csproj.AssemblyReference.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.AssemblyInfoInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.AssemblyInfo.cs
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.csproj.CoreCompileInputs.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\refint\linq3.dll
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.pdb
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\linq3.genruntimeconfig.cache
+C:\Users\nfediuk\Desktop\c-\Curso c#\37-Linq3\linq3\linq3\obj\Debug\net7.0\ref\linq3.dll
